@@ -11,7 +11,7 @@ Proyek ini bertujuan untuk menganalisis data kelayakan pemberian pinjaman kepada
 5. Kesimpulan dan Rekomendasi: Merangkum hasil analisis dan memberikan rekomendasi berdasarkan temuan yang ditemukan.
 
 ### Tahapan
-Di sini kita akan melakukan analisa dataset pada `/datasets/credit_scoring_eng.csv`.  
+Di sini kita akan melakukan analisa dataset pada `D:\Datasets\credit_scoring_eng.csv`.  
 Proyek ini terdiri dari tiga tahap:
  1. Ikhtisar Data
  2. Pra-pemrosesan data
